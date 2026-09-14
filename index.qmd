@@ -5,4 +5,4 @@ title: "Richard J. Park"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-![.images/IMG_4632]{width="75%" fig-align="center"}
+![](.images/IMG_4632){width="75%" fig-align="center"}

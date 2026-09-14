@@ -8,7 +8,7 @@ My name is Richard (Richie) Park and I currently serve in the U.S. Coast Guard a
 import pandas as pd
 data = {
     "Category": ["Service", "Education", "Hobby"],
-    "Details": ["U.S. Coast Guard", "Active Duty Officer", "Tennis"]
+    "Details": ["U.S. Coast Guard", "B.S. Cyber Systems", "Tennis"]
 }
 df = pd.DataFrame(data)
 df

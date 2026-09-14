@@ -2,4 +2,15 @@
 title: "About"
 ---
 
-About this site
+My name is Richard (Richie) Park and I currently serve in the U.S. Coast Guard as an Active Duty Officer. Welcome to my page!
+
+```{python}
+import pandas as pd
+data = {
+    "Category": ["Service", "Education", "Hobby"],
+    "Details": ["U.S. Coast Guard", "Active Duty Officer", "Tennis"]
+}
+df = pd.DataFrame(data)
+df
+```
+

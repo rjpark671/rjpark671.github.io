@@ -2,8 +2,20 @@
 title: "Richard J. Park"
 ---
 
-This is a Quarto website.
+Welcome to my Quarto Website pushed via EC2!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm looking forward to continuing developing this website and learning more about Big Data & Cloud Analytics!
 
 ![](images/IMG_4632.jpeg){width="75%" fig-align="center"}
+
+```{python}
+import matplotlib.pyplot as plt
+topics = ['Business Analytics', 'Cloud Analytics', 'Leadership', 'Data Visualization']
+interestlvl = [9, 9, 10, 7]
+
+plt.bar(topics, interestlvl, color='blue')
+plt.title('My Current Interest Levels in Applicable Topics')
+plt.ylabel('Interest Level (1-10)')
+plt.ylim(0, 10)
+plt.show()
+```

@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "My name is Richard (Richie) Park and I currently serve in the U.S. Coast Guard as an Active Duty Officer. Welcome to my page!\n\nimport pandas as pd\ndata = {\n    \"Category\": [\"Service\", \"Education\", \"Hobby\"],\n    \"Details\": [\"U.S. Coast Guard\", \"Active Duty Officer\", \"Tennis\"]\n}\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nCategory\nDetails\n\n\n\n\n0\nService\nU.S. Coast Guard\n\n\n1\nEducation\nActive Duty Officer\n\n\n2\nHobby\nTennis"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Richard J. Park",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my Quarto Website pushed via EC2!\nI’m looking forward to continuing developing this website and learning more about Big Data & Cloud Analytics!\n\n\n\n\n\n\nimport matplotlib.pyplot as plt\ntopics = ['Business Analytics', 'Cloud Analytics', 'Leadership', 'Data Visualization']\ninterestlvl = [9, 9, 10, 7]\n\nplt.bar(topics, interestlvl, color='blue')\nplt.title('My Current Interest Levels in Applicable Topics')\nplt.ylabel('Interest Level (1-10)')\nplt.ylim(0, 10)\nplt.show()"
   }
 ]

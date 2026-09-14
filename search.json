@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Richard (Richie) Park and I currently serve in the U.S. Coast Guard as an Active Duty Officer. Welcome to my page!\n\nimport pandas as pd\ndata = {\n    \"Category\": [\"Service\", \"Education\", \"Hobby\"],\n    \"Details\": [\"U.S. Coast Guard\", \"Active Duty Officer\", \"Tennis\"]\n}\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nCategory\nDetails\n\n\n\n\n0\nService\nU.S. Coast Guard\n\n\n1\nEducation\nActive Duty Officer\n\n\n2\nHobby\nTennis"
+    "text": "My name is Richard (Richie) Park and I currently serve in the U.S. Coast Guard as an Active Duty Officer. Welcome to my page!\n\nimport pandas as pd\ndata = {\n    \"Category\": [\"Service\", \"Education\", \"Hobby\"],\n    \"Details\": [\"U.S. Coast Guard\", \"B.S. Cyber Systems\", \"Tennis\"]\n}\ndf = pd.DataFrame(data)\ndf\n\n\n\n\n\n\n\n\nCategory\nDetails\n\n\n\n\n0\nService\nU.S. Coast Guard\n\n\n1\nEducation\nB.S. Cyber Systems\n\n\n2\nHobby\nTennis"
   },
   {
     "objectID": "index.html",

@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+Please see my CV/Resume below!
+
+![](images/image001.jpg){width="75%" fig-align="center"}
+
+
